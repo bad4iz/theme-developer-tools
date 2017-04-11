@@ -1,6 +1,19 @@
 {
-  "name": "DevTools Theme: Zero Dark Matrix",
-  "version": "0.0.1",
   "manifest_version": 2,
+
+  "name": "DevTools Theme: Dark ",
+  "version": "0.0.1",
+
+ /* "icons": {
+    "16": "16x16.png",
+    "32": "32x32.png",
+    "48": "48x48.png",
+    "128": "128x128.png"
+  },*/
+  "browser_action": {
+    "default_title": "Theme: Dark",
+//    "default_icon": "48x48.png",
+//    "default_popup": "popap.html"
+  },
   "devtools_page": "devtools.html"
 }
