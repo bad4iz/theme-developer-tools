@@ -1,0 +1,8 @@
+{
+  "manifest_version": 2,
+
+  "name": "DevTools Theme: Dark ",
+  "version": "0.0.1",
+
+  "devtools_page": "devtools.html"
+}
