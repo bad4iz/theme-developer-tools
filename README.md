@@ -1,6 +1,6 @@
 Темная тема Developer tools
- 
-
+ [elements]: images/2017-04-12 (5).png?raw=true "Elements"
+[]()
 ### Как установить тему оформления
 
 Цветовая схема, которая здесь представлена устанавливаются из [Chrome Web Store](https://chrome.google.com/webstore/detail/devtools-theme-dark/epdfpogjdbhpddcghddambbnjfjfaojo), что сводит ее применение до следующих трех простых шагов.
