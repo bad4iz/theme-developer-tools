@@ -1,10 +1,12 @@
 Темная тема Developer tools
 
+### elements
 ![elements](https://github.com/bad4iz/theme-developer-tools/blob/master/images/2017-04-12%20(3).png)
-![elements](https://github.com/bad4iz/theme-developer-tools/blob/master/images/2017-04-12%20(4).png)
-![elements](https://github.com/bad4iz/theme-developer-tools/blob/master/images/2017-04-12%20(5).png)
+### console
+![console](https://github.com/bad4iz/theme-developer-tools/blob/master/images/2017-04-12%20(4).png)
+### network
+![network](https://github.com/bad4iz/theme-developer-tools/blob/master/images/2017-04-12%20(5).png)
 
-[]()
 ### Как установить тему оформления
 
 Цветовая схема, которая здесь представлена устанавливаются из [Chrome Web Store](https://chrome.google.com/webstore/detail/devtools-theme-dark/epdfpogjdbhpddcghddambbnjfjfaojo), что сводит ее применение до следующих трех простых шагов.
