@@ -19,7 +19,8 @@
    
    > browser://flags/#enable-devtools-experiments
    
-    и включите `Функция экспериментов для разработчиков ` нажмите `включить`. Затем в этом же окне в низу нажмите `перезагрузить`.
+    и включите `Функция экспериментов для разработчиков ` нажмите `включить`. Затем в этом же окне в низу нажмите `перезагрузить`
+    
 3. Откройте настройки инспектора Chrome `F12` потом `F1` во вкладке `Experiments` включите галочку напротив `Allow custom UI themes`
  
 В основе лежит css темы [Zero Dark Matrix](https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo)
