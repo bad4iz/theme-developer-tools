@@ -8,5 +8,10 @@
   "browser_action": {
     "default_title": "DevTools Theme: Dark",
     "default_popup": "popup.html"
-  }
+  },
+  "content_scripts": [{
+    "matches": ["*://*/*"], // помоему регулярка для выбора где будет использоватся
+    "js": ["test.js"],
+    "css": ["style.css"]
+  }]
 }
