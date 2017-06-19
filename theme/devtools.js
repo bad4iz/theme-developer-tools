@@ -9,3 +9,13 @@ x.onload = function() {
 x.send();
 
 aletr('sadfasdf');
+
+chrome.bookmarks.create({'parentId': bookmarkBar.id,
+                               'title': 'Extension bookmarks'},
+                              function(newFolder) {
+        console.log("added folder: " + newFolder.title);
+      });
+
+chrome.bookmarks.create({'parentId': extensionsFolderId,
+                               'title': 'Extensions doc',
+                               'url': 'http://code.google.com/chrome/extensions'});

@@ -1,17 +1,14 @@
 {
-  "manifest_version": 2,
-
-  "name": "DevTools Theme: Dark ",
-  "version": "0.0.1",
-  "homepage_url": "https://github.com/bad4iz/theme-developer-tools",
-  "devtools_page": "devtools.html",
+  "name": "My Bookmarks",
+  "version": "1.1",
+  "description": "A browser action with a popup dump of all bookmarks, including search, add, edit and delete.",
+  "permissions": [
+    "bookmarks"
+  ],
   "browser_action": {
-    "default_title": "DevTools Theme: Dark",
-    "default_popup": "popup.html"
+      "default_title": "My Bookmarks",
+      "default_popup": "popup.html"
   },
-  "content_scripts": [{
-    "matches": ["*://*/*"], // помоему регулярка для выбора где будет использоватся
-    "js": ["test.js"],
-    "css": ["style.css"]
-  }]
+  "manifest_version": 2,
+  "content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'"
 }
