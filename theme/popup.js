@@ -2,6 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 // Search the bookmarks when entering the search keyword.
+console.log('привет с того света');
 $(function() {
   $('#search').change(function() {
      $('#bookmarks').empty();
