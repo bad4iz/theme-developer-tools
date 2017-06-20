@@ -192,7 +192,7 @@ span.cm-token-highlight:before {
 }
 
 #-blink-dev-tools ::shadow .editing, #-blink-dev-tools .editing {
-    background-color: #222 !important;
+    background-color: #555 !important;
     outline: 1px solid #89f5a2 !important;
     color: #ccc !important
 }
@@ -281,7 +281,7 @@ span.cm-token-highlight:before {
 }
 
 .filtered-item-list-dialog input, .dialog input, .filtered-item-list-dialog input:focus, .dialog input:focus {
-    background-color: #222 !important;
+    background-color: #987 !important;
     border: none !important;
     color: #e6e6e6 !important;
     padding: 0 5px
