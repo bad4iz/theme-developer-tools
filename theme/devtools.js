@@ -7,5 +7,3 @@ x.onload = function() {
     chrome.devtools.panels.applyStyleSheet(x.responseText);
 };
 x.send();
-
-aletr('sadfasdf');
